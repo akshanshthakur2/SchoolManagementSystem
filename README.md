@@ -17,7 +17,7 @@ PostgreSQL
 
 ## ⚙ Configuration
 Update database credentials inside:
-src/main/resources/hibernate.cfg.xml
+src/main/resources/META-INF/persistence.xml
 
 ## ▶ How to Run
 1. Clone the repository
